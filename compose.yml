@@ -1,4 +1,3 @@
-version: '3.7'
 # 今回のdocker-compose.ymlでは意味ないがlogの設定を別にして使いまわししやすくしている
 x-logging:
   &default-logging
